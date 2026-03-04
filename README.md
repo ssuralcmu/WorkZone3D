@@ -29,3 +29,17 @@ Install requirements:
 
 ```bash
 pip install -r wzd_annot_venv_requirements.txt
+
+## Citation
+
+If you use WorkZone3D in your research, please cite:
+
+```bibtex
+@inproceedings{sural2026workzone3d,
+  title     = {WorkZone3D: A Multimodal Dataset for 3D Work Zone Perception in Autonomous Driving},
+  author    = {Sural, Shounak and Sahu, Nishad and Rajkumar, Ragunathan},
+  booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+  pages     = {3972--3981},
+  year      = {2026}
+}
+
