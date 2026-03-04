@@ -27,7 +27,6 @@ https://openaccess.thecvf.com/content/WACV2026/papers/Sural_WorkZone3D_A_Multimo
 
 Install requirements:
 
-```bash
 pip install -r wzd_annot_venv_requirements.txt
 
 ## Citation
