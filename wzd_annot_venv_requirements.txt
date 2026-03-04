@@ -1,0 +1,15 @@
+opencv-python
+open3d
+scipy
+matplotlib
+tqdm
+threadpoolctl>=3.1.0
+numpy
+pillow
+scikit-learn>=1.6.0
+torch>=2.3.0 --index-url https://download.pytorch.org/whl/cu118  # CUDA 11.8
+torchvision>=0.18.0
+natsort
+roboflow
+ultralytics==8.0.196
+
