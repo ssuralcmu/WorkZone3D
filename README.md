@@ -15,11 +15,7 @@ https://openaccess.thecvf.com/content/WACV2026/papers/Sural_WorkZone3D_A_Multimo
 
 ## Dataset Downloads
 
-- **WorkZone3D dataset (multimodal):**  
-  https://drive.google.com/file/d/1VDGx2NRMMmVaTFqnCEUtiP35g_RZTRwU/view?usp=sharing
-
-- **Additional 2D segmentation masks (all workzone objects):**  
-  https://drive.google.com/file/d/1U19tuFNk8lqgmtmwle0aGLprnAGgfWKl/view?usp=sharing
+Dataset being updated. Updated version to be released soon.
 
 ---
 
