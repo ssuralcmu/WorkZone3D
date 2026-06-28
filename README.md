@@ -7,6 +7,8 @@ Presented at **IEEE/CVF Winter Conference on Applications of Computer Vision (WA
 
 ---
 
+Testing the Planning extension for the Workzone3D dataset on this branch. 
+
 ## Paper
 
 - **OpenAccess PDF:**  
